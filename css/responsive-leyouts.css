@@ -1,0 +1,288 @@
+/************* RESPONSIVE STYLES*********/
+
+/* ---------- MAX 1920PX ---------- */
+@media only screen and (min-width:1380px) and (max-width:1920px) {
+/*banner pager*/
+section.banner-area .bx-wrapper .bx-pager, .bx-wrapper .bx-controls-auto {
+    top:90%;
+}
+	
+}
+
+/* ---------- MAX 1920PX ---------- */
+@media only screen and (min-width:769px) and (max-width:1024px) {
+/*banner pager*/
+section.banner-area .bx-wrapper .bx-pager, .bx-wrapper .bx-controls-auto {
+    top:90%;
+}
+	
+}
+
+
+
+
+
+
+/* ---------- MAX 768PX ---------- */
+@media screen and (min-width:321px) and (max-width:768px) {
+/*menu responsive..........*/
+#scmenu #menu-button:after {
+    height: 8px;
+}
+#scmenu .submenu-button.submenu-opened {
+    background: #7f22b5;
+}
+#scmenu ul ul {
+    background: #7f22b5;
+}
+#scmenu ul li {
+    border-top:1px solid rgb(137, 89, 182);
+}
+
+/*header*/
+.logo-area img {
+    width: 100%;
+}
+.social-bookmarks ul {
+    margin-top: 0px;
+    margin-bottom: 16px;
+}
+.social-bookmarks ul li {
+    text-align: center;
+    font-size: 14px;
+}
+.social-bookmarks ul li a.purple {
+    font-size: 16px;
+    text-align: center;
+}
+section.hotspot-area {
+    padding-bottom: 20px;
+}
+section.video-area {
+    padding-top: 20px;
+    padding-bottom: 20px;
+	text-align: center;
+}
+.single-video-left h3 {
+    font-size: 12px;
+    margin-bottom: 2px;
+}
+.single-video-left h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.single-video-left p {
+    font-size: 14px;
+    margin-bottom: 5px;
+    line-height: 20px;
+}
+.single-video-right iframe {
+    height: auto;
+}
+section.testimonial {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.heading2 h1 {
+    font-size: 25px;
+    line-height: 40px;
+    margin-bottom: 10px;
+}
+.heading2 h1 span.purple {
+    font-size: 28px;
+}
+.single-reg-left a {
+    font-size: 16px;
+    padding-top: 10px;
+}
+.single-reg-left {
+    height: 42px;
+    margin-bottom: 10px;
+}
+section.registration-area {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 0px;
+}
+.bx-wrapper .bx-pager, .bx-wrapper .bx-controls-auto {
+    display: none;
+}
+.single-hotspot {
+    margin-bottom: 10px;
+}
+header .container{
+	padding-right:0px !important;
+	padding-left:0px !important;
+	}
+header {
+    position: relative;
+}
+/*banner....*/
+.carousel-caption {
+    padding-bottom: 0px;
+}
+.carousel-caption p {
+    font-size: 14px;
+    margin-top:5px;
+    line-height: 20px;
+    margin-bottom: 5px;
+}
+.banner_link a {
+    font-size: 14px;
+}
+.banner_link a {
+    color: #fff;
+    font-size: 14px;
+    font-weight: 400;
+}
+.banner_link {
+    height: 30px;
+    padding:3px 8px 0px 8px;
+    margin-top: 5px;
+    border: 1px solid #fff;
+}
+
+.carousel-caption h2 {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+
+}
+
+@media screen and (min-width:400px) and (max-width:768px) {
+.logo-area img {
+    width:auto;
+}
+	
+}
+/* ---------- MAX 320PX ---------- */
+@media only screen and (max-width:320px) {
+/*menu responsive..........*/
+#scmenu #menu-button:after {
+    height: 8px;
+}
+#scmenu .submenu-button.submenu-opened {
+    background: #7f22b5;
+}
+#scmenu ul ul {
+    background: #7f22b5;
+}
+#scmenu ul li {
+    border-top:1px solid rgb(137, 89, 182);
+}
+
+/*header*/
+.logo-area img {
+    width: 100%;
+}
+.social-bookmarks ul {
+    margin-top: 0px;
+    margin-bottom: 16px;
+}
+.social-bookmarks ul li {
+    text-align: center;
+    font-size: 14px;
+}
+.social-bookmarks ul li a.purple {
+    font-size: 16px;
+    text-align: center;
+}
+section.hotspot-area {
+    padding-bottom: 20px;
+}
+section.video-area {
+    padding-top: 20px;
+    padding-bottom: 20px;
+	text-align: center;
+}
+.single-video-left h3 {
+    font-size: 12px;
+    margin-bottom: 2px;
+}
+.single-video-left h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.single-video-left p {
+    font-size: 14px;
+    margin-bottom: 5px;
+    line-height: 20px;
+}
+.single-video-right iframe {
+    height: auto;
+}
+section.testimonial {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.heading2 h1 {
+    font-size: 25px;
+    line-height: 40px;
+    margin-bottom: 10px;
+}
+.heading2 h1 span.purple {
+    font-size: 28px;
+}
+.single-reg-left a {
+    font-size: 16px;
+    padding-top: 10px;
+}
+.single-reg-left {
+    height: 42px;
+    margin-bottom: 10px;
+}
+section.registration-area {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 0px;
+}
+.bx-wrapper .bx-pager, .bx-wrapper .bx-controls-auto {
+    display: none;
+}
+.single-hotspot {
+    margin-bottom: 10px;
+}
+header .container{
+	padding-right:0px !important;
+	padding-left:0px !important;
+	}
+header {
+    position: relative;
+}
+/*banner....*/
+.carousel-caption {
+    padding-bottom: 0px;
+}
+.carousel-caption p {
+    font-size: 14px;
+    margin-top:5px;
+    line-height: 20px;
+    margin-bottom: 5px;
+}
+.banner_link a {
+    font-size: 14px;
+}
+.banner_link a {
+    color: #fff;
+    font-size: 14px;
+    font-weight: 400;
+}
+.banner_link {
+    height: 30px;
+    padding:3px 8px 0px 8px;
+    margin-top: 5px;
+    border: 1px solid #fff;
+}
+
+.carousel-caption h2 {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+
+
+
+}
